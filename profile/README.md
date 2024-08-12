@@ -2,7 +2,7 @@
 
 This is the home for White Label's codebase!
 
-For administrative matters related to this Organization, please contact [Khairil Kasimir Isa](khairil.khalib@tuneprotect.com) or [Indika Kularatne](balapitiye.hewage@tuneprotect.com).
+For administrative matters related to this Organization, please contact [Khairil Kasimir Isa](mailto:khairil.khalib@tuneprotect.com) or [Indika Kularatne](mailto:balapitiye.hewage@tuneprotect.com).
 
 Repository links of interest:
 
