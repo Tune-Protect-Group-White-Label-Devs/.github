@@ -6,5 +6,10 @@ For administrative matters related to this Organization, please contact [Khairil
 
 Repository links of interest:
 
+# Marz Services (generic)
 * [- Marz Services application monorepo](https://github.com/Tune-Protect-Group-White-Label-Devs/marz-services)
+* [- Marz Services ArgoCD Manifest Repository](https://github.com/Tune-Protect-Group-White-Label-Devs/marz-infra-main-collection)
+
+# Marz Services TPT
+* [- Marz Services application Marshal API Repo] (https://github.com/Tune-Protect-Group-White-Label-Devs/Marz-TPT-MarshalAPI)
 * [- Marz Services ArgoCD Manifest Repository](https://github.com/Tune-Protect-Group-White-Label-Devs/marz-infra-main-collection)
